@@ -34,6 +34,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="VisualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
   
 </div>
   
