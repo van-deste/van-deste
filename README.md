@@ -1,7 +1,8 @@
 # Hi there 😁👋
 
 ### Informatics Engineer 
-### Stidies Master in Informatics at Polytechnic Institute of Bragança 👨‍🎓
+### Studies Master in Informatics at Polytechnic Institute of Bragança 👨‍🎓
+### Researcher
 ##
 
 <br>
