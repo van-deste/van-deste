@@ -4,7 +4,11 @@
 ### Studies Master in Informatics at Polytechnic Institute of Bragança 👨‍🎓
 ### Researcher at [CeDRI](https://cedri.ipb.pt/)
 
-#### Machine Learning Enthusiastic
+### Principal areas of study includes:
+#### Machine Learning
+#### Embeded Systems
+#### Internet of Things
+#### Application and Web Development
 
 
 <br>
