@@ -2,7 +2,7 @@
 
 ### Informatics Engineer 
 ### Studies Master in Informatics at Polytechnic Institute of Bragança 👨‍🎓
-### Researcher at <href="https://cedri.ipb.pt/#/">CeDRI</a>
+### Researcher at [CeDRI](https://cedri.ipb.pt/)
 
 
 
