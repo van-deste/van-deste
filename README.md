@@ -7,6 +7,7 @@
 ### Principal areas of study includes:
 #### Machine Learning
 #### Embeded Systems
+#### Distributed Systems
 #### Internet of Things
 #### Application and Web Development
 
