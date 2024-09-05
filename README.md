@@ -1,6 +1,21 @@
 # Hi there 👋
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/van-deste/van-deste/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/van-deste/van-deste/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/van-deste/van-deste/output/github-contribution-grid-snake.svg">
+</picture>
+<br/>
+
+
+
+  <!--![Snake animation](https://github.com/van-deste/van-deste/blob/output/github-contribution-grid-snake.svg) -->
+
+
+
+
 ## 💫About Me :
 ### Informatics Engineer
 ### Studies Master in Informatics at Polytechnic Institute of Bragança 👨‍🎓
@@ -39,21 +54,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=van-deste&icon=0&color=2)](https://visitcount.itsvg.in)
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/van-deste/van-deste/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/van-deste/van-deste/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/van-deste/van-deste/output/github-contribution-grid-snake.svg">
-</picture>
-<br/>
-
-
-
-  <!--![Snake animation](https://github.com/van-deste/van-deste/blob/output/github-contribution-grid-snake.svg) -->
-
-
-
-
-
